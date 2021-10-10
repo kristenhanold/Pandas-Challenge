@@ -24,13 +24,7 @@ purchase_data.head()
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+    
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -125,13 +119,7 @@ total_players_df
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+    
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -194,13 +182,7 @@ purchase_analysis_df
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+    
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -276,13 +258,7 @@ gender_analysis
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+    
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -362,13 +338,7 @@ purchasing_analysis
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+   
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -469,13 +439,7 @@ age_demographics_df
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+    
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -597,13 +561,7 @@ purchasing_analysis
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+    
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -733,13 +691,7 @@ sorted_top_spenders.head()
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+    
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -846,13 +798,7 @@ sorted_popular_items.head()
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+    
 </style>
 <table border="1" class="dataframe">
   <thead>
@@ -957,13 +903,7 @@ sorted_popular_items.head()
         vertical-align: middle;
     }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
+    
 </style>
 <table border="1" class="dataframe">
   <thead>
